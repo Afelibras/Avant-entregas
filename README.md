@@ -1,2 +1,2 @@
 # Avant-entregas
-Entrega de todas as atividades
+Entregar de todas as atividades
